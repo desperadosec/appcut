@@ -1,2 +1,2 @@
-# appcut
-A helper tool to grab binary blobs from IDA-analyzed binaries and wrap them via Python.
+TODO:
+Examples of how the thing works, maybe a neutered DGA function malware sample included.
