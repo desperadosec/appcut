@@ -1,4 +1,4 @@
-= AppCut =
+# AppCut
 AppCut is a supplemental tool to extend and extract the functionality of IDA Pro's AppCall function.
 
 The IDA API AppCall function allows an analyst to call an unexported function within a binary. For instance, if a piece of malware has a Domain Generation Algorithm (DGA) or custom encoder, AppCall can be used to invoke it with arbitrary parameters and use the function to obtain results.
